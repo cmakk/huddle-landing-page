@@ -129,6 +129,11 @@ p {
 	:root {
 		font-size: 2vw;
 	}
+	body {
+		background-image: url("images/bg-mobile.svg");
+		background-position: top center;
+		background-size: 100%;
+	}
 	.container {
 		grid-area: mockup;
 		display: flex;
